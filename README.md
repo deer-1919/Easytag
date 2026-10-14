@@ -213,4 +213,4 @@ EasyTAG is offered as a full free version with all features and updates included
 Download EasyTAG today and take control of your music collection with ease!
 
 ---
-**Last updated:** 2026-10-13 20:04:38 UTC
+**Last updated:** 2026-10-14 00:08:02 UTC
